@@ -68,3 +68,14 @@ While (i <= 5) {
 }
 ```
 
+### for-each
+
+```java 
+for (int n : numbers) { }
+```
+
+### Ternary
+int max = (a > b) ? a : b;
+
+### do-while
+do { } while (condition);
