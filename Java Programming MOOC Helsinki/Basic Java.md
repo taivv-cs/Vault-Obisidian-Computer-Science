@@ -75,7 +75,12 @@ for (int n : numbers) { }
 ```
 
 ### Ternary
+```java
 int max = (a > b) ? a : b;
+```
 
 ### do-while
+
+```java
 do { } while (condition);
+```
