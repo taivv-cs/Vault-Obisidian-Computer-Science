@@ -76,3 +76,12 @@ CRTO — Certified Red Team Operator
 Windows Internals — Russinovich & Solomon
 Malware Development — C/C++ + Windows API
 HackTheBox Pro Labs — Offshore / RastaLabs
+
+## Các cuốn sách cần đọc
+
+1. Đạo Đức Kinh - Nguyễn Hiến Lê 
+2. Quỷ Cốc Tử - Nguyễn Hiến Lê 
+3. Tôn tử binh pháp - Nguyễn Duy Hinh hoặc Phan Ngọc
+4. Tam Lược - Nguyễn Duy Hinh
+5. Hàn Phi Tử - Phan Ngọc 
+6. Sử Ký - Phan Ngọc

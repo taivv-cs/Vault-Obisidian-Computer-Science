@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OverTheWire/Level 0 - ssh.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 0 - ssh"
+              "title": "README"
             }
           }
         ],
@@ -210,12 +210,12 @@
   },
   "active": "2faeceef895cf49e",
   "lastOpenFiles": [
-    "Object equality and List.md",
     "OverTheWire/Level 0 - ssh.md",
+    "Java Programming MOOC Helsinki/Object equality and List.md",
     "OverTheWire",
     "Java Programming MOOC Helsinki/OOP.md",
     "Java Programming MOOC Helsinki/Primitive and reference variable.md",
-    "Object và References.md",
+    "Java Programming MOOC Helsinki/Object và References.md",
     "Java Programming MOOC Helsinki/POM.md",
     "Java Programming MOOC Helsinki/JUnit.md",
     "Java Programming MOOC Helsinki/Basic Java.md",

@@ -18,3 +18,13 @@ ssh -p port_number user@IP
 
 > ssh bandit0@bandit.labs.overthewire.org -p 2220
 
+## Cấu hình 
+	
+```config
+Host bandit
+  Hostname bandit.labs.overthewire.org
+  Port 2220
+  User bandit0
+  Compression yes
+  AddressFamily inet
+```
